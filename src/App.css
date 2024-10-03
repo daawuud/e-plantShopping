@@ -1,7 +1,7 @@
 /* App.css */
 
 .landing-page {
-    background-image: url('/your-background-image.jpg'); /* Assuming the image is in the public folder */
+    background-image: url('https://www.pv-magazine.com/wp-content/uploads/2021/11/greenhouse-2499758_1280.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
